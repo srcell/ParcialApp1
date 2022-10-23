@@ -40,7 +40,6 @@
             this.lblUsuario = new System.Windows.Forms.ToolStripStatusLabel();
             this.lblSesion = new System.Windows.Forms.ToolStripStatusLabel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.mantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -62,8 +61,7 @@
             this.empleadoToolStripMenuItem,
             this.transportistaToolStripMenuItem,
             this.toolStripMenuItem1,
-            this.salirDelAplicativoToolStripMenuItem,
-            this.mantenimientoToolStripMenuItem});
+            this.salirDelAplicativoToolStripMenuItem});
             this.seleccioneToolStripMenuItem.Name = "seleccioneToolStripMenuItem";
             this.seleccioneToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
             this.seleccioneToolStripMenuItem.Text = "Mantenimiento";
@@ -133,12 +131,6 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // mantenimientoToolStripMenuItem
-            // 
-            this.mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
-            this.mantenimientoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.mantenimientoToolStripMenuItem.Text = "Mantenimiento";
-            // 
             // MdiPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -176,6 +168,5 @@
         private ToolStripMenuItem salirDelAplicativoToolStripMenuItem;
         private ToolStripStatusLabel lblUsuario;
         private ToolStripStatusLabel lblSesion;
-        private ToolStripMenuItem mantenimientoToolStripMenuItem;
     }
 }

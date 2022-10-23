@@ -8,17 +8,21 @@ using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace EParcial_RamosLing
 {
     public partial class frmLogin : Form
     {
         int intentos = 0;  
-        int tiempo = 20;    
+        int tiempo = 20;
+    
+
         public frmLogin()
         {
             InitializeComponent();
         }
+
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
