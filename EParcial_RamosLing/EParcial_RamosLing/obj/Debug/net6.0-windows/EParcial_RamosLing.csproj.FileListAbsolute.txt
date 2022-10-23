@@ -19,3 +19,10 @@ E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.pdb
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.genruntimeconfig.cache
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\ref\EParcial_RamosLing.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.CopyComplete

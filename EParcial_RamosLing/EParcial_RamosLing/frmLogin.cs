@@ -14,23 +14,30 @@ namespace EParcial_RamosLing
 {
     public partial class frmLogin : Form
     {
-        int intentos = 0;  
+
+        SqlConnection cnx = new SqlConnection(@"server = IRLING; Database=BD_VILLAZE;Integrated Security=true");
+        SqlCommand cmd = new SqlCommand();
+        SqlDataAdapter ada;
+
         int tiempo = 20;
-    
+        int intentos = 0;
+
 
         public frmLogin()
         {
             InitializeComponent();
         }
 
-
-        private void btnAceptar_Click(object sender, EventArgs e)
+        private void btnAceptar_Click_1(object sender, EventArgs e)
         {
+
             if (txtUsuario.Text.Trim() != "" & txtContraseña.Text.Trim() != "")
             {
+                //Validamos las credenciales
                 if (txtUsuario.Text == "ISIL" & txtContraseña.Text == "12345")
                 {
-                    this.Hide(); 
+                    //Si las credenciales son correctas
+                    this.Hide(); //Ocultamos el login
                     timer1.Enabled = false;
                     MdiPrincipal mdi = new MdiPrincipal();
                     mdi.ShowDialog();
@@ -58,6 +65,7 @@ namespace EParcial_RamosLing
                                 MessageBoxIcon.Error);
                 Application.Exit();
             }
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -74,5 +82,7 @@ namespace EParcial_RamosLing
                 Application.Exit();
             }
         }
+
+       
     }
 }
