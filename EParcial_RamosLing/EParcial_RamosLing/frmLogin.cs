@@ -12,9 +12,18 @@ namespace EParcial_RamosLing
 {
     public partial class frmLogin : Form
     {
+        int intentos = 0;  
+        int tiempo = 20;    
         public frmLogin()
         {
             InitializeComponent();
         }
+
+
+
+
+
+
+
     }
 }

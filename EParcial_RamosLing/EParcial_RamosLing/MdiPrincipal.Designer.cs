@@ -40,6 +40,7 @@
             this.lblUsuario = new System.Windows.Forms.ToolStripStatusLabel();
             this.lblSesion = new System.Windows.Forms.ToolStripStatusLabel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.mantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -61,41 +62,42 @@
             this.empleadoToolStripMenuItem,
             this.transportistaToolStripMenuItem,
             this.toolStripMenuItem1,
-            this.salirDelAplicativoToolStripMenuItem});
+            this.salirDelAplicativoToolStripMenuItem,
+            this.mantenimientoToolStripMenuItem});
             this.seleccioneToolStripMenuItem.Name = "seleccioneToolStripMenuItem";
-            this.seleccioneToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
-            this.seleccioneToolStripMenuItem.Text = "--Seleccione--";
+            this.seleccioneToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
+            this.seleccioneToolStripMenuItem.Text = "Mantenimiento";
             // 
             // clienteToolStripMenuItem
             // 
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.clienteToolStripMenuItem.Text = "Cliente";
             this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
             // 
             // empleadoToolStripMenuItem
             // 
             this.empleadoToolStripMenuItem.Name = "empleadoToolStripMenuItem";
-            this.empleadoToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
+            this.empleadoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.empleadoToolStripMenuItem.Text = "Empleado";
             this.empleadoToolStripMenuItem.Click += new System.EventHandler(this.empleadoToolStripMenuItem_Click);
             // 
             // transportistaToolStripMenuItem
             // 
             this.transportistaToolStripMenuItem.Name = "transportistaToolStripMenuItem";
-            this.transportistaToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
+            this.transportistaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.transportistaToolStripMenuItem.Text = "Transportista";
             this.transportistaToolStripMenuItem.Click += new System.EventHandler(this.transportistaToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(166, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
             // 
             // salirDelAplicativoToolStripMenuItem
             // 
             this.salirDelAplicativoToolStripMenuItem.Name = "salirDelAplicativoToolStripMenuItem";
-            this.salirDelAplicativoToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
+            this.salirDelAplicativoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salirDelAplicativoToolStripMenuItem.Text = "Salir del aplicativo";
             this.salirDelAplicativoToolStripMenuItem.Click += new System.EventHandler(this.salirDelAplicativoToolStripMenuItem_Click);
             // 
@@ -130,6 +132,12 @@
             this.timer1.Enabled = true;
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // mantenimientoToolStripMenuItem
+            // 
+            this.mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
+            this.mantenimientoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mantenimientoToolStripMenuItem.Text = "Mantenimiento";
             // 
             // MdiPrincipal
             // 
@@ -168,5 +176,6 @@
         private ToolStripMenuItem salirDelAplicativoToolStripMenuItem;
         private ToolStripStatusLabel lblUsuario;
         private ToolStripStatusLabel lblSesion;
+        private ToolStripMenuItem mantenimientoToolStripMenuItem;
     }
 }
