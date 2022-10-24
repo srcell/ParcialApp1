@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj": {}
+  },
+  "projects": {
+    "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj",
+        "projectName": "ProyVillaze_ADO",
+        "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+                "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
+        "projectName": "ProyVillaze_BE",
+        "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj",
+        "projectName": "ProyVillaze_BL",
+        "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj": {
+                "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj"
+              },
+              "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+                "projectPath": "C:\\desarrolloDeAplicaciones1\\parciaaaal\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

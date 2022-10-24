@@ -10,7 +10,7 @@ namespace EParcial_RamosLing
 {
     internal class BaseDatos
     {
-        private string cadenaConexion = "server = IRLING; Database=BD_VILLAZE;Integrated Security=true";
+        private string cadenaConexion = "server = DESKTOP-A934S4H; Database=BD_VILLAZE;Integrated Security=true";
 
         public static string usuario = "";
 
