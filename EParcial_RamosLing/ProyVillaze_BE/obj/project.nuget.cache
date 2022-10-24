@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NSYgcoK9u6jbyp/j9lQGTBiaDqZ2gxX7HLmY436+68vF9/8790vTNJ2w1mec0YSEDUZ5LajcwtdT73Fu0ctq7g==",
+  "dgSpecHash": "hFc151kYPe3ARrQHK7TL0p4J50iqXFQxCtnABOUkzxoKSbKchUjh6dymjBOLsRy7xgnq7KJVEhn1scnmeUa+gw==",
   "success": true,
   "projectFilePath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\system.data.sqlclient\\4.8.4\\system.data.sqlclient.4.8.4.nupkg.sha512"
+  ],
   "logs": []
 }
