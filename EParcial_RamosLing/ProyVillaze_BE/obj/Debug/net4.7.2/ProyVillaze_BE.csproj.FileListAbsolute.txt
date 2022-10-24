@@ -1,0 +1,5 @@
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net4.7.2\ProyVillaze_BE.csproj.AssemblyReference.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net4.7.2\ProyVillaze_BE.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net4.7.2\ProyVillaze_BE.AssemblyInfoInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net4.7.2\ProyVillaze_BE.AssemblyInfo.cs
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net4.7.2\ProyVillaze_BE.csproj.CoreCompileInputs.cache

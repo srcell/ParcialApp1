@@ -24,7 +24,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net472": {
+            "targetAlias": "net4.7.2-windows",
             "projectReferences": {
               "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
                 "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj"
@@ -51,28 +51,179 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
+        "net472": {
+          "targetAlias": "net4.7.2-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj",
+        "projectName": "ProyVillaze_ADO",
+        "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj",
+        "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+        "outputPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {
+              "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+                "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
+        "projectName": "ProyVillaze_BE",
+        "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
+        "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+        "outputPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj",
+        "projectName": "ProyVillaze_BL",
+        "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BL\\ProyVillaze_BL.csproj",
+        "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+        "outputPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {
+              "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj": {
+                "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_ADO\\ProyVillaze_ADO.csproj"
+              },
+              "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj": {
+                "projectPath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

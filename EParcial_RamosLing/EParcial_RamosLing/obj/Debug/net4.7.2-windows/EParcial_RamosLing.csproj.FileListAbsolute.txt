@@ -1,0 +1,13 @@
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.csproj.AssemblyReference.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmCrudCliente.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmCrudCliente02.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmCrudCliente03.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmCrudEmpleado.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmCrudTransportista.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.frmLogin.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.MdiPrincipal.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.csproj.GenerateResource.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.AssemblyInfoInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.AssemblyInfo.cs
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.csproj.CoreCompileInputs.cache
