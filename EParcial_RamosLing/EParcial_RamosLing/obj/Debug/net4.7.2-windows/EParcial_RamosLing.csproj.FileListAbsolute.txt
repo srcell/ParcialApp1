@@ -11,3 +11,4 @@ E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.AssemblyInfoInputs.cache
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.AssemblyInfo.cs
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.csproj.CoreCompileInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net4.7.2-windows\EParcial_RamosLing.csproj.SuggestedBindingRedirects.cache
