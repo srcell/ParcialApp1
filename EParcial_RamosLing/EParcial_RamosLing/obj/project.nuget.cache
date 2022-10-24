@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mX4T/LQy4PknWUW1Df1kT9wEqZQJwDm7AW/7wYw5GmGMNHLTorpLYtxNjJrNkHDIg5OaaDZ0IFFyqNY+dqeQ2Q==",
+  "dgSpecHash": "saeDszQMdibOQi2OJ5O4bBaJ83XpJOTY25GG02hMIqAL1E6fQ1AI9I3YtkDM2NdXiTulvtTKhVS0e7NUER9TdA==",
   "success": true,
   "projectFilePath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\EParcial_RamosLing\\EParcial_RamosLing.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\italo\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\system.data.sqlclient\\4.8.4\\system.data.sqlclient.4.8.4.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+    "C:\\Users\\italo\\.nuget\\packages\\cxuesong.shims.visualbasic.devices\\0.3.0\\cxuesong.shims.visualbasic.devices.0.3.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.data.sqlclient\\4.8.4\\system.data.sqlclient.4.8.4.nupkg.sha512"
   ],
   "logs": []
 }

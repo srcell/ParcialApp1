@@ -1,11 +1,42 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.7.2": {}
+    ".NETFramework,Version=v4.7.2": {
+      "CXuesong.Shims.VisualBasic.Devices/0.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CXuesong.Shims.VisualBasic.Devices.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/CXuesong.Shims.VisualBasic.Devices.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CXuesong.Shims.VisualBasic.Devices/0.3.0": {
+      "sha512": "EhdCMIo8Dm1dQHjuo+/Wgksc1DwkVgLmWHB0O09VYCmdZVx1VJaALHG/uNbNgfTrQ6ktLf3FKnfEthMMN8mDWg==",
+      "type": "package",
+      "path": "cxuesong.shims.visualbasic.devices/0.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cxuesong.shims.visualbasic.devices.0.3.0.nupkg.sha512",
+        "cxuesong.shims.visualbasic.devices.nuspec",
+        "lib/netstandard2.0/CXuesong.Shims.VisualBasic.Devices.dll",
+        "lib/netstandard2.0/CXuesong.Shims.VisualBasic.Devices.pdb",
+        "lib/netstandard2.0/CXuesong.Shims.VisualBasic.Devices.xml"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.7.2": []
+    ".NETFramework,Version=v4.7.2": [
+      "CXuesong.Shims.VisualBasic.Devices >= 0.3.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\italo\\.nuget\\packages\\": {},
@@ -54,6 +85,12 @@
     "frameworks": {
       "net472": {
         "targetAlias": "net4.7.2",
+        "dependencies": {
+          "CXuesong.Shims.VisualBasic.Devices": {
+            "target": "Package",
+            "version": "[0.3.0, )"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }

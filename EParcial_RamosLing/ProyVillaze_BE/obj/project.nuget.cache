@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "regtTYKOTO5iNDqxlfkQ1tLaCS049AYs29T0ySwq7CqpeCyy+ezUKl4837Tn6axywnw6+MQjAoroyuCmohFqzg==",
+  "dgSpecHash": "gXEMeE/5ZkkSIuku2Kjo+mjwKQCI5X136F9Blgxy/TFL8ammUPTvpCKGGLjjavn5wU+wk0GVBHGAeYAU7NHBcQ==",
   "success": true,
   "projectFilePath": "E:\\1.- Carreras\\2.- Desarrollo de software\\2° Ciclo\\desarrollo de aplicaciones 1\\GitParcial\\EParcial_RamosLing\\ProyVillaze_BE\\ProyVillaze_BE.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\cxuesong.shims.visualbasic.devices\\0.3.0\\cxuesong.shims.visualbasic.devices.0.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

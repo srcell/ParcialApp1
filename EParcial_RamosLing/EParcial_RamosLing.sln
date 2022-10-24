@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EParcial_RamosLing", "EParcial_RamosLing\EParcial_RamosLing.csproj", "{1573EFC8-996E-430F-B37F-DAC6A6368398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyVillaze_BE", "ProyVillaze_BE\ProyVillaze_BE.csproj", "{E09FC87D-27E6-4F89-B0F6-4A33FFE0B052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyVillaze_BE", "ProyVillaze_BE\ProyVillaze_BE.csproj", "{E09FC87D-27E6-4F89-B0F6-4A33FFE0B052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyVillaze_BL", "ProyVillaze_BL\ProyVillaze_BL.csproj", "{351633FA-2D3E-4037-BA28-D1210E6243D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyVillaze_BL", "ProyVillaze_BL\ProyVillaze_BL.csproj", "{351633FA-2D3E-4037-BA28-D1210E6243D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyVillaze_ADO", "ProyVillaze_ADO\ProyVillaze_ADO.csproj", "{504709B1-003C-4162-85E9-85BD3187DC8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyVillaze_ADO", "ProyVillaze_ADO\ProyVillaze_ADO.csproj", "{504709B1-003C-4162-85E9-85BD3187DC8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
