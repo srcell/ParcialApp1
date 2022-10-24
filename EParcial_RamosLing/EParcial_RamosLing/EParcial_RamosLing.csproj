@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net4.7.2-windows</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -14,8 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ProyVillaze_ADO\ProyVillaze_ADO.csproj" />
     <ProjectReference Include="..\ProyVillaze_BE\ProyVillaze_BE.csproj" />
     <ProjectReference Include="..\ProyVillaze_BL\ProyVillaze_BL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Device" />
   </ItemGroup>
 
 </Project>

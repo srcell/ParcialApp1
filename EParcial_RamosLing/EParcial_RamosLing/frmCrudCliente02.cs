@@ -1,5 +1,5 @@
-﻿using ProyVillaze_BL;
-using ProyVillze_BE;
+﻿using ProyVillaze_BE;
+using ProyVillaze_BL;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

@@ -1,5 +1,5 @@
 ﻿using ProyVillaze_ADO;
-using ProyVillze_BE;
+using ProyVillaze_BE;
 using System;
 using System.Collections.Generic;
 using System.Data;

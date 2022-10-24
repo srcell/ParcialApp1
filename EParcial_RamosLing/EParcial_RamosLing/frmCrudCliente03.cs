@@ -1,5 +1,4 @@
 ﻿using ProyVillaze_BL;
-using ProyVillze_BE;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Globalization;
+using ProyVillaze_BE;
 
 namespace EParcial_RamosLing
 {
