@@ -1,0 +1,15 @@
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.deps.json
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_BE.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.csproj.AssemblyReference.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.AssemblyInfoInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.AssemblyInfo.cs
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.csproj.CoreCompileInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.csproj.CopyComplete
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\refint\ProyVillaze_ADO.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ref\ProyVillaze_ADO.dll

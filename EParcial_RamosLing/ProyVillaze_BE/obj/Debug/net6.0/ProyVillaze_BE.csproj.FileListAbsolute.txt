@@ -1,0 +1,12 @@
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.deps.json
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.csproj.AssemblyReference.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.AssemblyInfoInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.AssemblyInfo.cs
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.csproj.CoreCompileInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\refint\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ref\ProyVillaze_BE.dll

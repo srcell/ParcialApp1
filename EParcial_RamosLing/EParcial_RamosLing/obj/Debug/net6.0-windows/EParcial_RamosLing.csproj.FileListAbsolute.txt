@@ -26,3 +26,41 @@ E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.CopyComplete
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.exe
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.deps.json
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.runtimeconfig.json
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.AssemblyReference.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudEmpleado.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudTransportista.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmLogin.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.MdiPrincipal.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.GenerateResource.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.AssemblyInfoInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.AssemblyInfo.cs
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.CoreCompileInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.csproj.CopyComplete
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\refint\EParcial_RamosLing.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.genruntimeconfig.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\ref\EParcial_RamosLing.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\EParcial_RamosLing.dll.config
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_ADO.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_BL.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_BE.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_BL.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_ADO.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente02.resources
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente03.resources

@@ -1,0 +1,17 @@
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_BL.deps.json
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_BL.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_BL.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_ADO.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_BE.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_ADO.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\bin\Debug\net6.0\ProyVillaze_BE.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.csproj.AssemblyReference.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.AssemblyInfoInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.AssemblyInfo.cs
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.csproj.CoreCompileInputs.cache
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.csproj.CopyComplete
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\refint\ProyVillaze_BL.dll
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.pdb
+C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ref\ProyVillaze_BL.dll
