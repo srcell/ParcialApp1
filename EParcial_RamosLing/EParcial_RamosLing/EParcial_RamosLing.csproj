@@ -9,19 +9,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="CXuesong.Shims.VisualBasic.Devices" Version="0.3.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
+=======
+>>>>>>> ffb552cbcfbddcb9c8f420720945c233b625f840
     <PackageReference Include="System.Data.SqlClient" Version="4.8.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProyVillaze_ADO\ProyVillaze_ADO.csproj" />
     <ProjectReference Include="..\ProyVillaze_BE\ProyVillaze_BE.csproj" />
     <ProjectReference Include="..\ProyVillaze_BL\ProyVillaze_BL.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="System.Device" />
+    <Compile Update="frmCrudTransportista02.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 
 </Project>

@@ -6,9 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <PackageReference Include="CXuesong.Shims.VisualBasic.Devices" Version="0.3.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
   </ItemGroup>
 
+=======
+>>>>>>> ffb552cbcfbddcb9c8f420720945c233b625f840
 </Project>

@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="CXuesong.Shims.VisualBasic.Devices" Version="0.3.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
+=======
+>>>>>>> ffb552cbcfbddcb9c8f420720945c233b625f840
     <ProjectReference Include="..\ProyVillaze_ADO\ProyVillaze_ADO.csproj" />
     <ProjectReference Include="..\ProyVillaze_BE\ProyVillaze_BE.csproj" />
   </ItemGroup>
