@@ -15,6 +15,10 @@ namespace EParcial_RamosLing
     public partial class frmLogin : Form
     {
 
+        SqlConnection cnx = new SqlConnection(@"server = IRLING; Database=BD_VILLAZE;Integrated Security=true");
+        SqlCommand cmd = new SqlCommand();
+        SqlDataAdapter ada;
+
         int tiempo = 20;
         int intentos = 0;
 
