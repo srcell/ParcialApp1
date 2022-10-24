@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CXuesong.Shims.VisualBasic.Devices" Version="0.3.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ProyVillaze_ADO\ProyVillaze_ADO.csproj" />
     <ProjectReference Include="..\ProyVillaze_BE\ProyVillaze_BE.csproj" />
   </ItemGroup>
