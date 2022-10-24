@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="CXuesong.Shims.VisualBasic.Devices" Version="0.3.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.4" />
   </ItemGroup>
 

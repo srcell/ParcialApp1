@@ -21,3 +21,10 @@ E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.dll
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\refint\ProyVillaze_ADO.dll
 E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.pdb
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.deps.json
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_ADO.pdb
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_BE.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\bin\Debug\net6.0\ProyVillaze_BE.pdb
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ProyVillaze_ADO.csproj.CopyComplete
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_ADO\obj\Debug\net6.0\ref\ProyVillaze_ADO.dll
