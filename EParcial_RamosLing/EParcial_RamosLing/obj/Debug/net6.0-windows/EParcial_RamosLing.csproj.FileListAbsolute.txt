@@ -64,3 +64,5 @@ C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bi
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\bin\Debug\net6.0-windows\ProyVillaze_ADO.pdb
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente02.resources
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente03.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente02.resources
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\EParcial_RamosLing\obj\Debug\net6.0-windows\EParcial_RamosLing.frmCrudCliente03.resources

@@ -15,3 +15,11 @@ C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\De
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\refint\ProyVillaze_BL.dll
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.pdb
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ref\ProyVillaze_BL.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.csproj.AssemblyReference.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.AssemblyInfoInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.AssemblyInfo.cs
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.csproj.CoreCompileInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\refint\ProyVillaze_BL.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BL\obj\Debug\net6.0\ProyVillaze_BL.pdb

@@ -10,3 +10,15 @@ C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\De
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\refint\ProyVillaze_BE.dll
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.pdb
 C:\desarrolloDeAplicaciones1\parciaaaal\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ref\ProyVillaze_BE.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.deps.json
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\bin\Debug\net6.0\ProyVillaze_BE.pdb
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.csproj.AssemblyReference.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.AssemblyInfoInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.AssemblyInfo.cs
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.csproj.CoreCompileInputs.cache
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\refint\ProyVillaze_BE.dll
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ProyVillaze_BE.pdb
+E:\1.- Carreras\2.- Desarrollo de software\2° Ciclo\desarrollo de aplicaciones 1\GitParcial\EParcial_RamosLing\ProyVillaze_BE\obj\Debug\net6.0\ref\ProyVillaze_BE.dll
